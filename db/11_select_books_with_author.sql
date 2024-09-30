@@ -1,4 +1,4 @@
-\c my_bookshop
+\c test_bookshop
 
 \echo '\n Here is a list of book titles with the corresponding author:\n'
 

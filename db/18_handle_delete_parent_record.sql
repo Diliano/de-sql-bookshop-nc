@@ -1,4 +1,4 @@
-\c my_bookshop
+\c test_bookshop
 
 -- Deleting a book:
 -- Modify the books_genres table in section 14 first

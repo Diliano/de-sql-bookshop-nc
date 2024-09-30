@@ -1,4 +1,4 @@
-\c my_bookshop
+\c test_bookshop
 
 \echo '\n Here are the genres for Emma:\n'
 

@@ -1,1 +1,1 @@
-\c my_bookshop;
+\c test_bookshop;
