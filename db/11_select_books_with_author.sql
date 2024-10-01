@@ -11,4 +11,4 @@ JOIN authors on books.author_id = authors.author_id;
 SELECT author_name
 FROM authors
 LEFT JOIN books on authors.author_id = books.author_id
-WHERE books.author_id is NULL;
+WHERE books.author_id IS NULL;
