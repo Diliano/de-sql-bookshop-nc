@@ -1,3 +1,5 @@
-Instructions for this sprint can be found at: [SQL Bookshop](https://l2c.northcoders.com/courses/de2-data/sql-bookshop)
+# Data Engineering Bootcamp - SQL
 
-<!-- Need to add link when completed -->
+## Overview
+
+This repository contains work completed as part of the 'SQL' Sprint during my Data Engineering Bootcamp. 
